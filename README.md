@@ -7,4 +7,4 @@ The following are the files and the descriptions:
 - LogisticRegression.ipynb: Final model development with tuning parameters Class weights, Penalty (Ridge/Lasso), Intercept Fit, C (Inverse of regularization Strength) to evaluate ridge regression's fit 
 - ModelComparison.ipynb: Comparing all the models with baseline using Precision Recall Curves and F score metric table. 
 - Final_Presentation.pptx: Presentation encapsulating the project's summary
-- Final_Report.pdf: Report paper enlisting details of the approaches took and the rationale behind them
+- Final_Report.pdf: Report paper enlisting details of the approaches I took and the rationale behind them
